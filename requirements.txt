@@ -37,7 +37,7 @@ SQLAlchemy==1.1.14
 tabulate==0.7.5
 termcolor==1.1.0
 twilio==6.8.1
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 websocket-client==0.44.0
 Werkzeug==0.12.2
